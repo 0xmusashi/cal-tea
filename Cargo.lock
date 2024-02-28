@@ -98,7 +98,7 @@ checksum = "8ea184aa71bb362a1157c896979544cc23974e08fd265f29ea96b59f0b4a555b"
 
 [[package]]
 name = "cal-tea"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "ansi_term",
  "assert_cmd",
